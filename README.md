@@ -10,3 +10,6 @@ were trying to accomplish.
 I do not own the ideas behind the projects, nor do I want to take credit for them.
 The purpose of uploading these files is merely to show how I was able to solve problems dealing with some of
 the basics of computer science through C++.
+
+Most of these projects were done through pair work. If you are interested in individual work, please
+see poly1.cxx
